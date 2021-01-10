@@ -3,7 +3,7 @@
 ## Django Rest Framework project to handle user authentication 
 
 
-## Users could use the following the following authentication schemes:
+## Users could use the following authentication schemes:
     BasicAuthentication
     SessionAuthentication
     TokenAuthentication
